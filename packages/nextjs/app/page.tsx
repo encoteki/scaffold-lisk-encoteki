@@ -16,7 +16,7 @@ const Home: NextPage = () => {
         <h1 className="text-center">
           <span className="block text-base mb-2">Welcome to</span>
           <span className="flex items-end gap-4 text-5xl font-bold">
-            <Logo size={48} /> Scaffold-Lisk{" "}
+            <Logo size={48} /> Scaffold-Lisk Encoteki{" "}
           </span>
         </h1>
         <div className="flex btn btn-md bg-base-100 w-fit justify-center mb-4 items-center space-x-2">
